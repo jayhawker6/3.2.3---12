@@ -22,3 +22,7 @@ print()
 print("Odd numbers from 9 down to 1 inclusive:")
 print()
 a = 9
+while a > 0:
+    if (a % 2) != 0:
+        print(a)
+    a -= 1
