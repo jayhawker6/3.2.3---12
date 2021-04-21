@@ -21,3 +21,4 @@ while a != 12:
 print()
 print("Odd numbers from 9 down to 1 inclusive:")
 print()
+a = 9
